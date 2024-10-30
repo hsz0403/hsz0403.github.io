@@ -88,23 +88,34 @@ education:
 
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Researcher in Caltech Anima AI+Science lab
+    company_name: Caltech
+    company_url: 'http://tensorlab.cms.caltech.edu/users/anima/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Researcher in Internlm-Math team
+    company_name: Shanghai AI lab(pjlab)
+    company_url: 'https://github.com/InternLM/InternLM-Math'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-07-01
+    date_end: 2024-10-20
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Researcher in NYU AI4CE Lab
+    company_name: NYU AI4CE Lab
+    company_url: 'https://ai4ce.github.io/'
+    company_logo: ''
+    date_start: 2023-05-20
+    date_end: 2023-09-30
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
