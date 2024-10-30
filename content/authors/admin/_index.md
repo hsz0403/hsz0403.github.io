@@ -1,12 +1,12 @@
 ---
 # Display name
-title: SuoZhi Huang
+title: Suozhi Huang
 
 # Name pronunciation (optional)
 #name_pronunciation:  Huang Suo Zhi
 
 # Full name (for SEO)
-first_name: SuoZhi
+first_name: Suozhi
 last_name: Huang
 
 # Status emoji
@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=_hqTvrYAAAAJ&hl=en
+    url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
