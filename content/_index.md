@@ -49,7 +49,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false #true for only 'featured: true' papers
     design:
       view: citation
       #view: article-grid
