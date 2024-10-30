@@ -1,7 +1,7 @@
 ---
 title: "InternLM2.5-StepProver: Advancing Automated Theorem Proving via Expert Iteration on Large-Scale LEAN Problems"
-authors:
-- admin
+# authors:
+# - admin
 date: "2024-10-18T00:00:00Z"
 doi: ""
 
