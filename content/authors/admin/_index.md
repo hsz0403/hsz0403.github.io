@@ -77,12 +77,13 @@ education:
     date_start: 2020-09-01
     date_end: 2025-06-30
     summary: |
-      GPA: 3.7/4.0
+      GPA: 3.6/4.0
       
       Courses included:
       - machine learning
-      - autonomous driving
       - quantum computing
+      - autonomous driving
+      
 
 
 
@@ -131,14 +132,15 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
+      
       - name: Lean
         description: ''
         percent: 60
         icon: circle-stack
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -167,6 +169,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 # awards:
 #   - title: Neural Networks and Deep Learning
 #     url: https://www.coursera.org/learn/neural-networks-deep-learning
