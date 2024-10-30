@@ -80,9 +80,10 @@ education:
       GPA: 3.7/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - machine learning
+      - autonomous driving
+      - quantum computing
+
 
 work:
   - position: Director of Cloud Infrastructure
