@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Hi, I'm Suozhi, an undergrad student researcher studying Computer Science(major in AI) at Yao Class in Tsinghua University. My research interests include automatic theorem proving, language model reasoning and AI for science(including math, physics and biochem). I am fortunate to work with Prof. Anima Anandkumar at Caltech. I am also a member of Internlm-Math team, developing llm formal math provers. I start my research journey from robotics.
+Hi, I'm Suozhi, an undergrad student researcher studying Computer Science(major in AI) at Yao Class in Tsinghua University. My research interests include automatic theorem proving, language model reasoning and AI for science(including math, physics and biochem). I am fortunate to work with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech. I am also a member of Internlm-Math team, developing llm formal math provers. I start my research journey from robotics.
