@@ -51,8 +51,9 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
+      view: citation
+      #view: article-grid
+      #columns: 2
   # - block: collection
   #   content:
   #     title: Publications
@@ -67,10 +68,10 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: No Talks Yet #Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          #- event
     design:
       view: article-grid
       columns: 1
