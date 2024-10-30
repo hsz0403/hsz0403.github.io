@@ -29,9 +29,9 @@ tags:
 
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
+# links:
+# # - name: Custom Link
+# #   url: https://arxiv.org/abs/2410.15700
 url_pdf: https://arxiv.org/abs/2410.15700
 url_code: 'https://github.com/InternLM/InternLM-Math'
 url_dataset: 'https://huggingface.co/datasets/internlm/Lean-Workbook'
