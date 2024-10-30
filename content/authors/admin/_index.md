@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 黄索之
+title: SuoZhi Huang
 
 # Name pronunciation (optional)
-name_pronunciation:  Huang Suo Zhi
+#name_pronunciation:  Huang Suo Zhi
 
 # Full name (for SEO)
 first_name: SuoZhi
@@ -25,7 +25,7 @@ role: Undergrad Student Researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Tsinghua University
-    url: https://openai.com/
+    #url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
