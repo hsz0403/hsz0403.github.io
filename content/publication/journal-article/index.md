@@ -2,12 +2,12 @@
 title: "A Knowledge–Data Dual‐Driven Framework for Predicting the Molecular Properties of Rechargeable Battery Electrolytes"
 authors:
 
-- Gao Yu-Chen 
-- Yuan Yu-Hang 
-- admin 
+- Gao YuChen 
+- Yuan YuHang 
+- Huang Suozhi
 - Yao Nan
 - Yu Legeng 
-- Chen Yao-Peng 
+- Chen YaoPeng 
 - Zhang Qiang 
 - Chen Xiang
 
