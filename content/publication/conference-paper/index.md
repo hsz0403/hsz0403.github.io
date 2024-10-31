@@ -47,7 +47,7 @@ summary: In this work, we aim to address scalable
   camera-based collaborative perception with a Transformer-based
   architecture.
 
-tags: ["Computer Vision","Robotics"]
+tags: ["Computer Vision 11"]
   #- Computer Vision
   #- Robotics
 
