@@ -160,7 +160,7 @@ skills:
 
 languages:
   - name: English
-    percent: 80
+    percent: 90
   - name: Chinese
     percent: 100
 

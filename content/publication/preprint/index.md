@@ -1,7 +1,17 @@
 ---
 title: "InternLM2.5-StepProver: Advancing Automated Theorem Proving via Expert Iteration on Large-Scale LEAN Problems"
 authors:
+ - Zijian Wu
  - admin
+ - Zhejian Zhou
+ - Huaiyuan Ying
+ - Jiayu Wang
+ - Dahua Lin
+ - Kai Chen
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  
 date: "2024-10-18T00:00:00Z"
 doi: ""
 
@@ -11,7 +21,7 @@ doi: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["report"] #["article"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
