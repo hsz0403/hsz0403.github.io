@@ -100,7 +100,7 @@ work:
       - Hold a new research project
       - Create and integrate plugin for LeanCopilot
   - position: Researcher in Internlm-Math team
-    company_name: Shanghai AI lab(pjlab)
+    company_name: Shanghai AI lab (PJLab)
     company_url: 'https://github.com/InternLM/InternLM-Math'
     company_logo: ''
     date_start: 2024-07-01
