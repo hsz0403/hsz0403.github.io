@@ -4,7 +4,7 @@ title: 'ActFormer: Scalable Collaborative Perception via Active Queries'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors: ["**Suozhi Huang**/*", "Juexiao Zhang" , "Yiming Li","Chen Feng" ]
+authors: ["Suozhi Huang*", "Juexiao Zhang" , "Yiming Li","Chen Feng" ]
 # - Suozhi Huang*
 # - Juexiao Zhang*
 # - Yiming Li
