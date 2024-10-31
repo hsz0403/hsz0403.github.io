@@ -5,15 +5,10 @@ title: 'ActFormer: Scalable Collaborative Perception via Active Queries'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- <font color=red>Suozhi Huang*</font>
+- Suozhi Huang*
 - Juexiao Zhang*
 - Yiming Li
 - Chen Feng
-# author:
-#   - suozhi
-#   - Juexiao Zhang*
-#   - Yiming Li 
-#   - Chen Feng
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
@@ -52,9 +47,9 @@ summary: In this work, we aim to address scalable
   camera-based collaborative perception with a Transformer-based
   architecture.
 
-tags:
-  - Computer Vision
-  - Robotics
+tags: ["Computer Vision","Robotics"]
+  #- Computer Vision
+  #- Robotics
 
 
 # Display this page in the Featured widget?
