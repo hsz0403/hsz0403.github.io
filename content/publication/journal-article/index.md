@@ -1,12 +1,20 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+
+- Gao, Yu-Chen 
+- Yuan, Yu-Hang 
+- admin 
+- Yao, Nan
+- Yu, Legeng 
+- Chen, Yao-Peng 
+- Zhang, Qiang 
+- Chen, Xiang
+
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2024-05-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
