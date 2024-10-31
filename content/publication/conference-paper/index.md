@@ -9,7 +9,11 @@ authors:
   - Juexiao Zhang*
   - Yiming Li 
   - Chen Feng
-
+author:
+  - suozhi
+  - Juexiao Zhang*
+  - Yiming Li 
+  - Chen Feng
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
