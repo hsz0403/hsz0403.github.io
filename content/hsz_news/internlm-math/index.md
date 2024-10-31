@@ -1,6 +1,6 @@
 ---
 title: 🎉 New SOTA for theorem proving model!
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: Introducing our new open-source LLMs for Lean 4 theorem proving. See our in X https://x.com/hungsuzh143318/status/1848604474555961804
 date: 2024-10-27
 
 # Featured image
