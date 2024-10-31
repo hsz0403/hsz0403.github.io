@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "A Knowledge–Data Dual‐Driven Framework for Predicting the Molecular Properties of Rechargeable Battery Electrolytes"
 authors:
 
 - Gao, Yu-Chen 
@@ -18,7 +18,7 @@ date: "2024-05-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-07-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Angewandte Chemie International Edition*"
+publication_short: "*Angewandte Chemie*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Developing rechargeable batteries that operate within a wide temperature range and possess high safety has become necessary with increasing demands. Rapid and accurate assessment of the melting points (MPs), boiling points (BPs), and flash points (FPs) of electrolyte molecules is essential for expediting battery development. Herein, we introduce Knowledge-based electrolyte Property prediction Integration (KPI), a knowledge–data dual-driven framework for molecular property prediction of electrolytes. Initially, the KPI collects molecular structures and properties, and then automatically organizes them into structured datasets. Subsequently, interpretable machine learning further explores the structure–property relationships of molecules from a microscopic perspective. Finally, by embedding the discovered knowledge into property prediction models, the KPI achieved very low mean absolute errors of 10.4, 4.6, and 4.8 K for MP, BP, and FP predictions, respectively. The KPI reached state-of-the-art results in 18 out of 20 datasets. Utilizing molecular neighbor search and high-throughput screening, 15 and 14 promising molecules, with and without Chemical Abstracts Service Registry Number, respectively, were predicted for wide-temperature-range and high-safety batteries. The KPI not only accurately predicts molecular properties and deepens the understanding of structure–property relationships but also serves as an efficient framework for integrating artificial intelligence and  domain knowledge.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We introduce Knowledge-based electrolyte Property prediction Integration (KPI), a knowledge–data dual-driven framework for molecular property prediction of electrolytes. Initially, the KPI collects molecular structures and properties, and then automatically organizes them into structured datasets.
 
 tags:
 - Source Themes

@@ -42,9 +42,9 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com.hk/citations?user=_hqTvrYAAAAJ&hl=en
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
