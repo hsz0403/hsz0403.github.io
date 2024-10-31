@@ -97,9 +97,8 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Hold a new research project
+      - Create and integrate plugin for LeanCopilot
   - position: Researcher in Internlm-Math team
     company_name: Shanghai AI lab(pjlab)
     company_url: 'https://github.com/InternLM/InternLM-Math'
@@ -108,9 +107,10 @@ work:
     date_end: 2024-10-20
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Built critic model for expert iteration on Lean dataset(Lean workbook & Lean github)
+      - Replaced Best first search method with critic model guided search in tactic selection
+      - Contruct a new comprehensive dataset by expert iteration searching
+      - Finished one SOTA paper in LLM for theorem proving
   - position: Researcher in NYU AI4CE Lab
     company_name: NYU AI4CE Lab
     company_url: 'https://ai4ce.github.io/'
@@ -119,9 +119,10 @@ work:
     date_end: 2023-09-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Proposed a scalable, active paradigm in query-based camera-only collaboration task, which reduced the cost in feature transfer
+      - Implemented a pose-guided selection network in deformable attention in camera-based perception, which greatly reduced the number of BEV queries with effective selection
+      - Completed all experiments in multi-agent dataset, analyzed the results, and improved scalability
+      - Submitted a paper to ICRA 2024 as first author
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
