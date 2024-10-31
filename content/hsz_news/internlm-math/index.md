@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
+title: 🎉 New SOTA for theorem proving model!
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+date: 2024-10-27
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,14 +10,20 @@ image:
 
 authors:
   - admin
-  - Ted
 
 tags:
   - Academic
-  - Hugo Blox
-  - Markdown
+  - Theorem proving
+  
 ---
 
+Welcome 👋
+
+See our in X: https://x.com/hungsuzh143318/status/1848604474555961804
+
+https://arxiv.org/abs/2410.15700 Introducing our new open-source LLMs for Lean 4 theorem proving: InternLM2.5-StepProver and its critic, setting a new #minif2f SOTA at 65.9%. No hallucination, verified math proofs by LLM reasoning!
+
+<!-- 
 Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
@@ -83,4 +89,4 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->
