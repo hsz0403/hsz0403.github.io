@@ -2,7 +2,7 @@
 title: "InternLM2.5-StepProver: Advancing Automated Theorem Proving via Expert Iteration on Large-Scale LEAN Problems"
 authors:
  - Zijian Wu*
- - admin*
+ - Suozhi Huang*
  - Zhejian Zhou
  - Huaiyuan Ying
  - Jiayu Wang
