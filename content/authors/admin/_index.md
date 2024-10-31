@@ -24,7 +24,7 @@ role: Undergrad Student Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tsinghua University
+  - name: Yao Class, Tsinghua University
     #url: https://openai.com/
 
 # Social network links

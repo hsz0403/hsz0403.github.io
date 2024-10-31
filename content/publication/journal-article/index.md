@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2024-08-15T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1002/anie.202416506"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2024-07-01T00:00:00Z"
@@ -42,9 +42,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.202416506
+url_code: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.202416506
+url_dataset: https://onlinelibrary.wiley.com/doi/epdf/10.1002/anie.202416506
 url_poster: ''
 url_project: ''
 url_slides: ''
