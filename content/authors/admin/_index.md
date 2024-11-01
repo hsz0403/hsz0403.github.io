@@ -72,7 +72,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.E. Artificial Intelligence
+  - area: B.E. Computer Science (Major in AI)
     institution: Yao Class, Tsinghua University
     date_start: 2020-09-01
     date_end: 2025-06-30
