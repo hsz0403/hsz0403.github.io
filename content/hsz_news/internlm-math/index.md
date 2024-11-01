@@ -1,6 +1,6 @@
 ---
 title: 🎉 New SOTA for theorem proving model!
-summary: Introducing our new open-source LLMs for Lean 4 theorem proving. See our in X https://x.com/hungsuzh143318/status/1848604474555961804
+summary: Our new open-source LLMs for Lean 4 theorem proving. See our poster in X https://x.com/hungsuzh143318/status/1848604474555961804
 date: 2024-10-27
 
 # Featured image
@@ -19,7 +19,7 @@ tags:
 
 Welcome 👋
 
-See our in X: https://x.com/hungsuzh143318/status/1848604474555961804
+See our poster in X: https://x.com/hungsuzh143318/status/1848604474555961804
 
 https://arxiv.org/abs/2410.15700 Introducing our new open-source LLMs for Lean 4 theorem proving: InternLM2.5-StepProver and its critic, setting a new #minif2f SOTA at 65.9%. No hallucination, verified math proofs by LLM reasoning!
 
