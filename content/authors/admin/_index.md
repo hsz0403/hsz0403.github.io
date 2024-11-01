@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Automatic Theorem Proving
+  - Automated Theorem Proving
   - Reasoning in LLMs
 
 education:
