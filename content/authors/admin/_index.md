@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/hungsuzh143318
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/hsz0403
   - icon: brands/linkedin
