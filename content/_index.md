@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/PhD_application_CV_Caltech.pdf
+        url: uploads/CV_suozhi_huang (1).pdf
     design:
       css_class: dark
       background:
