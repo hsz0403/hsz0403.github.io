@@ -48,14 +48,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2403.04968'
-url_code: 'https://github.com/coperception/ActFormer'
+url_pdf: 'https://arxiv.org/abs/2502.17925'
+url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://coperception.github.io/ActFormer/'
+url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=grvPVxIKfDE&feature=youtu.be'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
