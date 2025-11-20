@@ -201,6 +201,8 @@ awards:
 
 ## About Me
 
-Hi, I'm Suozhi, an undergrad student researcher studying Computer Science(major in AI) at Yao Class in Tsinghua University. My research interests include automated theorem proving, language model reasoning and AI for science(including math, physics and biochem). I am fortunate to work with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech. I am also a member of [Internlm-Math](https://github.com/InternLM/InternLM-Math) team, developing llm formal math provers. I start my research journey from robotics.
+Hi, I'm Suozhi, first year Ph.D. student in Princeton University studying in ECE department. My current interest is in LLM agents which can solve specific hard tasks that human can't even handle.
 
-<font color=red>I am incoming Ph.D. student in Princeton University for the 2025 Fall.</font>
+I did my undergrad Computer Science(major in AI) at Yao Class in Tsinghua University. My past research interests included automated theorem proving, language model reasoning and AI for science(including math, physics and biochem). I am fortunate to work with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech. I am also a member of [Internlm-Math](https://github.com/InternLM/InternLM-Math) team, developing llm formal math provers. I start my research journey from robotics.
+
+<!-- <font color=red>I am incoming Ph.D. student in Princeton University for the 2025 Fall.</font> -->
