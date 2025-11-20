@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interests include Automated Theorem Proving, where I focus on developing systems that can autonomously prove mathematical theorems without errors, ensuring no hallucinations in the proofs generated. I am particularly interested in the intersection of automated theorem proving and large language models (LLMs), exploring how these models can be utilized to verify proofs and enhance the reasoning process. Additionally, I aim to incorporate reinforcement learning (RL) and expert iteration techniques to optimize the theorem proving process, enabling systems to learn from expert strategies and improve their performance over time. 
+        My research interests include LLMs and agentic tasks. Additionally, I aim to incorporate reinforcement learning (RL) and real world high dimensional data to optimize the agent strategy, enabling systems to learn from expert strategies and improve their performance over time. 
         
-        My goal is to create robust frameworks that leverage LLM capabilities for accurate theorem verification and efficient learning, contributing to the reliability and effectiveness of automated reasoning in mathematics.
+        My goal is to create robust frameworks that leverage LLM capabilities for hard decision problems.
         
         Please reach out to collaborate 😃
     design:

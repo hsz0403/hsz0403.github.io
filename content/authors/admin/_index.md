@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergrad Student Researcher
+role: Grad Student Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'huang-sz20@mails.tsinghua.edu.cn'
+    url: 'suozhi.huang@princeton.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/hungsuzh143318
