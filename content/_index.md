@@ -31,19 +31,6 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research interests include LLMs and agentic tasks. Additionally, I aim to incorporate reinforcement learning (RL) and real world high dimensional data to optimize the agent strategy, enabling systems to learn from expert strategies and improve their performance over time. 
-        
-        My goal is to create robust frameworks that leverage LLM capabilities for hard decision problems.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
-
-  - block: markdown
     id: publications
     content:
       title: 'Publications'
