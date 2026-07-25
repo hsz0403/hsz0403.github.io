@@ -1,0 +1,73 @@
+- year: 2026
+  title: "Any2Poster: Any-Source Poster Generation Across Modalities and Domains"
+  authors: "Amogh Vinaykumar, Aiden Li, Suozhi Huang, and Shilong Liu"
+  venue: "arXiv preprint"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2606.02915"
+    - label: Code
+      url: "https://github.com/Any2Poster/Any2Poster"
+
+- year: 2026
+  title: "FutureX-Pro: Extending Future Prediction to High-Value Vertical Domains"
+  authors: "Jiashuo Liu, Siyuan Chen, Zaiyuan Wang, Zhiyuan Zeng, Jiacheng Guo, Liang Hu, Lingyue Yin, Suozhi Huang, et al."
+  venue: "arXiv preprint"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2601.12259"
+
+- year: 2025
+  title: "CryptoBench: A Dynamic Benchmark for Expert-Level Evaluation of LLM Agents in Cryptocurrency"
+  authors: "Jiacheng Guo, Suozhi Huang, Zixin Yao, Yifan Zhang, Yifu Lu, Jiashuo Liu, et al."
+  venue: "arXiv preprint"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2512.00417"
+
+- year: 2025
+  title: "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free"
+  authors: "Zihan Qiu, Zekun Wang, Bo Zheng, Zeyu Huang, Kaiyue Wen, Songlin Yang, Rui Men, Le Yu, Fei Huang, Suozhi Huang, Dayiheng Liu, Jingren Zhou, and Junyang Lin"
+  venue: "NeurIPS 2025"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2505.06708"
+
+- year: 2025
+  title: "LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction"
+  authors: "Suozhi Huang, Peiyang Song, Robert Joseph George, and Anima Anandkumar"
+  venue: "Transactions on Machine Learning Research"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2502.17925"
+
+- year: 2024
+  title: "InternLM2.5-StepProver: Advancing Automated Theorem Proving via Expert Iteration on Large-Scale LEAN Problems"
+  authors: "Zijian Wu*, Suozhi Huang*, Zhejian Zhou, Huaiyuan Ying, Jiayu Wang, Dahua Lin, and Kai Chen"
+  venue: "Technical report"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2410.15700"
+    - label: Code
+      url: "https://github.com/InternLM/InternLM-Math"
+    - label: Dataset
+      url: "https://huggingface.co/datasets/internlm/Lean-Workbook"
+
+- year: 2024
+  title: "A Knowledge-Data Dual-Driven Framework for Predicting the Molecular Properties of Rechargeable Battery Electrolytes"
+  authors: "Yuchen Gao, Yu-Hang Yuan, Suozhi Huang, Nan Yao, Legeng Yu, Yao-Peng Chen, Qiang Zhang, and Xiang Chen"
+  venue: "Angewandte Chemie International Edition"
+  links:
+    - label: Paper
+      url: "https://doi.org/10.1002/anie.202416506"
+
+- year: 2024
+  title: "ActFormer: Scalable Collaborative Perception via Active Queries"
+  authors: "Suozhi Huang*, Juexiao Zhang*, Yiming Li, and Chen Feng"
+  venue: "ICRA 2024"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2403.04968"
+    - label: Code
+      url: "https://github.com/coperception/ActFormer"
+    - label: Project
+      url: "https://coperception.github.io/ActFormer/"

@@ -1,0 +1,69 @@
+<div class="publication-list">
+  <p class="publication-scholar">
+    <a href="https://scholar.google.com.hk/citations?user=_hqTvrYAAAAJ&hl=en" target="_blank" rel="noopener">
+      View all publications on Google Scholar ↗
+    </a>
+  </p>
+
+  {{ $currentYear := 0 }}
+  {{ range site.Data.publications }}
+    {{ if ne .year $currentYear }}
+      {{ if ne $currentYear 0 }}</div>{{ end }}
+      <h3 class="publication-year">{{ .year }}</h3>
+      <div class="publication-year-list">
+      {{ $currentYear = .year }}
+    {{ end }}
+
+    <article class="publication-entry">
+      <div class="publication-title">{{ .title }}</div>
+      <div class="publication-authors">
+        {{ replace .authors "Suozhi Huang" "<strong>Suozhi Huang</strong>" | safeHTML }}
+      </div>
+      <div class="publication-meta">
+        <span>{{ .venue }}</span>
+        {{ range .links }}
+          <span class="publication-separator">·</span>
+          <a href="{{ .url }}" target="_blank" rel="noopener">{{ .label }}</a>
+        {{ end }}
+      </div>
+    </article>
+  {{ end }}
+  {{ if ne $currentYear 0 }}</div>{{ end }}
+</div>
+
+<style>
+  .publication-scholar {
+    margin: 0 0 2rem;
+  }
+
+  .publication-year {
+    margin: 2.25rem 0 1.1rem;
+    font-size: 1.35rem;
+    font-weight: 700;
+  }
+
+  .publication-entry {
+    margin-bottom: 1.5rem;
+  }
+
+  .publication-title {
+    font-size: 1.05rem;
+    font-weight: 650;
+    line-height: 1.45;
+  }
+
+  .publication-authors {
+    margin-top: 0.2rem;
+    line-height: 1.55;
+  }
+
+  .publication-meta {
+    margin-top: 0.2rem;
+    color: rgb(100 116 139);
+    line-height: 1.55;
+  }
+
+  .publication-separator {
+    margin: 0 0.25rem;
+  }
+</style>

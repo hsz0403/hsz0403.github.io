@@ -39,9 +39,27 @@ sections:
         
         My goal is to create robust frameworks that leverage LLM capabilities for hard decision problems.
         
-        Please reach out to collaborate 😃 You can find my publications on [Google Scholar](https://scholar.google.com.hk/citations?user=_hqTvrYAAAAJ&hl=en).
+        Please reach out to collaborate 😃
     design:
       columns: '1'
+
+  - block: markdown
+    id: publications
+    content:
+      title: 'Publications'
+      subtitle: ''
+      text: |-
+        {{< publications >}}
+    design:
+      columns: '1'
+
+  - block: resume-experience
+    id: experience
+    content:
+      username: admin
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
 
   # - block: collection
   #   id: talks
