@@ -205,4 +205,6 @@ I am a Ph.D. student in Electrical and Computer Engineering at Princeton Univers
 
 My recent work spans agent evaluation and future prediction, multimodal agent systems, LLM architectures, and formal theorem proving. Before joining Princeton, I received my B.E. in Computer Science from Tsinghua University's Yao Class. I began my research in collaborative robotic perception and later worked on AI for science and formal mathematical reasoning.
 
+I have been fortunate to work with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech; Dr. Zheng Yuan and [Prof. Dahua Lin](https://research.cuhk.edu.hk/en/persons/dahua-lin/) through [InternLM-Math](https://github.com/InternLM/InternLM-Math); [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) and [Dr. Yiming Li](https://yimingli-page.github.io/) at NYU; and [Prof. Xiang Chen](https://www.chemeng.tsinghua.edu.cn/en/info/1029/1244.htm) and [Prof. Qiang Zhang](https://www.chemeng.tsinghua.edu.cn/info/1168/2609.htm) at Tsinghua University.
+
 <!-- <font color=red>I am incoming Ph.D. student in Princeton University for the 2025 Fall.</font> -->
