@@ -2,6 +2,16 @@
 title: Publications
 cms_exclude: true
 
+build:
+  list: never
+  render: never
+
+cascade:
+  - build:
+      list: never
+      publishResources: false
+      render: never
+
 # View.
 view: citation
 

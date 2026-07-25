@@ -39,63 +39,9 @@ sections:
         
         My goal is to create robust frameworks that leverage LLM capabilities for hard decision problems.
         
-        Please reach out to collaborate 😃
+        Please reach out to collaborate 😃 You can find my publications on [Google Scholar](https://scholar.google.com.hk/citations?user=_hqTvrYAAAAJ&hl=en).
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: false #true for only 'featured: true' papers
-    design:
-      view: citation
-      #view: article-grid
-      #columns: 2
-  # - block: collection
-  #   content:
-  #     title: Publications
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
-
-
-      
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: hsz_news
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
 
   # - block: collection
   #   id: talks
