@@ -201,7 +201,7 @@ awards:
 
 ## About Me
 
-I am a Ph.D. student in Electrical and Computer Engineering at Princeton University. My research focuses on building and evaluating LLM agents for expert-level reasoning and decision-making in complex, dynamic environments. I am particularly interested in agentic reasoning, model adaptation, and reliable evaluation in real-world and scientific domains.
+I am a Ph.D. student in Electrical and Computer Engineering at Princeton University. My research focuses on building and evaluating LLM agents for expert-level reasoning and decision-making in complex, dynamic environments. I am particularly interested in agentic reasoning, model adaptation, and reliable evaluation in real-world and scientific domains. I am also interested in [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang)'s [LabOS](https://ai4labos.com/) initiative and its vision of AI-XR co-scientists that collaborate with human researchers in real-world scientific workflows.
 
 My recent work spans agent evaluation and future prediction, multimodal agent systems, LLM architectures, and formal theorem proving. Before joining Princeton, I received my B.E. in Computer Science from Tsinghua University's Yao Class. I began my research in collaborative robotic perception and later worked on AI for science and formal mathematical reasoning.
 
