@@ -20,13 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Grad Student Researcher
+role: Ph.D. Student in Electrical and Computer Engineering
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'suozhi.huang@princeton.edu'
+    url: 'mailto:suozhi.huang@princeton.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/hungsuzh143318
@@ -35,18 +35,25 @@ profiles:
   - icon: brands/github
     url: https://github.com/hsz0403
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/suozhi-huang-2337a01b8
   - icon: academicons/google-scholar
-    url: https://scholar.google.com.hk/citations?user=_hqTvrYAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=_hqTvrYAAAAJ&hl=en
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Automated Theorem Proving
-  - Reasoning in LLMs
+  - LLM Reasoning and Post-Training
+  - Agentic Systems
+  - Reliable Evaluation
+  - Formal Theorem Proving
 
 education:
+  - area: Ph.D. Electrical and Computer Engineering
+    institution: Princeton University
+    date_start: 2025-09-01
+    date_end: ''
+    summary: |
+      Advisor: Prof. Mengdi Wang
   # - area: PhD Artificial Intelligence
   #   institution: Stanford University
   #   date_start: 2016-01-01
@@ -71,53 +78,48 @@ education:
     institution: Yao Class, Tsinghua University
     date_start: 2020-09-01
     date_end: 2025-06-30
-    summary: |
-      GPA: 3.6/4.0
-      
-      Courses included:
-      - machine learning
-      - quantum computing
-      - autonomous driving
       
 
 
 
 
 work:
-  - position: Researcher in Caltech Anima AI+Science lab
+  - position: Graduate Researcher
+    company_name: Princeton University
+    company_url: 'https://ece.princeton.edu/'
+    company_logo: ''
+    date_start: 2025-09-01
+    date_end: ''
+    summary: |
+      - Co-developed CryptoBench, a dynamic benchmark for evaluating LLM agents on expert cryptocurrency-analysis tasks.
+      - Contributed to AQuA, a pair of recursively self-improving research-agent systems for quantitative investment.
+  - position: Researcher, Neural Theorem Proving
     company_name: Caltech
     company_url: 'http://tensorlab.cms.caltech.edu/users/anima/'
     company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
+    date_start: 2024-08-01
+    date_end: 2025-01-31
     summary: |2-
-      Responsibilities include:
-      - Hold a new research project
-      - Create and integrate plugin for LeanCopilot
-  - position: Researcher in Internlm-Math team
-    company_name: Shanghai AI lab (PJLab)
+      - Developed LeanProgress, a proof-progress predictor trained on approximately 80K Lean trajectories.
+      - Integrated progress signals into ReProver search and contributed tooling merged into LeanDojo v2.
+  - position: Research Intern, Formal Mathematical Reasoning
+    company_name: Shanghai AI Laboratory (PJLab)
     company_url: 'https://github.com/InternLM/InternLM-Math'
     company_logo: ''
     date_start: 2024-07-01
     date_end: 2024-10-20
     summary: |
-      Responsibilities include:
-      - Built critic model for expert iteration on Lean dataset(Lean workbook & Lean github)
-      - Replaced Best first search method with critic model guided search in tactic selection
-      - Contruct a new comprehensive dataset by expert iteration searching
-      - Finished one SOTA paper in LLM for theorem proving
-  - position: Researcher in NYU AI4CE Lab
+      - Co-developed critic-guided search and expert iteration for InternLM2.5-StepProver.
+      - Built the critic-model training and preference-data pipeline from Lean proof-search trajectories.
+  - position: Visiting Researcher, Collaborative Perception
     company_name: NYU AI4CE Lab
     company_url: 'https://ai4ce.github.io/'
     company_logo: ''
     date_start: 2023-05-20
     date_end: 2023-09-30
     summary: |
-      Responsibilities include:
-      - Proposed a scalable, active paradigm in query-based camera-only collaboration task, which reduced the cost in feature transfer
-      - Implemented a pose-guided selection network in deformable attention in camera-based perception, which greatly reduced the number of BEV queries with effective selection
-      - Completed all experiments in multi-agent dataset, analyzed the results, and improved scalability
-      - Submitted a paper to ICRA 2024 as first author
+      - Co-developed ActFormer, a pose-guided Transformer for scalable multi-robot perception.
+      - Led multi-agent camera experiments and ablations; published as a co-first-author paper at ICRA 2024.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -196,10 +198,10 @@ awards:
 
 ## About Me
 
-I am a Ph.D. student in Electrical and Computer Engineering at Princeton University. My research focuses on building and evaluating LLM agents for expert-level reasoning and decision-making in complex, dynamic environments. I am particularly interested in agentic reasoning, model adaptation, and reliable evaluation in real-world and scientific domains. I am also interested in [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang)'s [LabOS](https://ai4labos.com/) initiative and its vision of AI-XR co-scientists that collaborate with human researchers in real-world scientific workflows.
+I am a Ph.D. student in Electrical and Computer Engineering at Princeton University, advised by [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang). I work on LLM reasoning, post-training, and agentic systems, with an emphasis on building models and evaluations that remain reliable in complex, dynamic environments. I am particularly interested in reinforcement learning with verifiable rewards, on-policy distillation, scalable search, and agents that improve from empirical feedback.
 
-My recent work spans agent evaluation and future prediction, multimodal agent systems, LLM architectures, and formal theorem proving. Before joining Princeton, I received my B.E. in Computer Science from Tsinghua University's Yao Class. I began my research in collaborative robotic perception and later worked on AI for science and formal mathematical reasoning.
+My recent work includes self-improving quantitative-research agents ([AQuA](https://arxiv.org/abs/2608.12841)), dynamic evaluation of expert-level agents ([CryptoBench](https://arxiv.org/abs/2512.00417)), and formal mathematical reasoning ([InternLM2.5-StepProver](https://arxiv.org/abs/2410.15700) and [LeanProgress](https://openreview.net/forum?id=eTmOwvvRu9)). I am also a coauthor of the NeurIPS 2025 Best Paper on gated attention for large language models.
 
-I have been fortunate to work with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech; Dr. Zheng Yuan and [Prof. Dahua Lin](https://research.cuhk.edu.hk/en/persons/dahua-lin/) through [InternLM-Math](https://github.com/InternLM/InternLM-Math); and [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) and [Dr. Yiming Li](https://yimingli-page.github.io/) at NYU.
+Before Princeton, I received my B.E. in Computer Science from Tsinghua University's Yao Class and worked with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech, Dr. Zheng Yuan and [Prof. Dahua Lin](https://research.cuhk.edu.hk/en/persons/dahua-lin/) through [InternLM-Math](https://github.com/InternLM/InternLM-Math), and [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) and [Dr. Yiming Li](https://yimingli-page.github.io/) at NYU. I am currently seeking research internships in LLM reasoning, post-training, and agentic systems.
 
 <!-- <font color=red>I am incoming Ph.D. student in Princeton University for the 2025 Fall.</font> -->

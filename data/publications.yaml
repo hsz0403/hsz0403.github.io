@@ -1,4 +1,12 @@
 - year: 2026
+  title: "AQuA: Recursively Self-Improving Quantitative Trading Research Agents"
+  authors: "Jiacheng Guo, Suozhi Huang, Yunlong Gao, Zihao Li, Jason Ge, Xu Kuang, and Mengdi Wang"
+  venue: "arXiv preprint"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2608.12841"
+
+- year: 2026
   title: "Any2Poster: Any-Source Poster Generation Across Modalities and Domains"
   authors: "Amogh Vinaykumar, Aiden Li, Suozhi Huang, and Shilong Liu"
   venue: "arXiv preprint"
@@ -18,7 +26,7 @@
 
 - year: 2025
   title: "CryptoBench: A Dynamic Benchmark for Expert-Level Evaluation of LLM Agents in Cryptocurrency"
-  authors: "Jiacheng Guo, Suozhi Huang, Zixin Yao, Yifan Zhang, Yifu Lu, Jiashuo Liu, et al."
+  authors: "Jiacheng Guo*, Suozhi Huang*, Zixin Yao*, Yifan Zhang*, Yifu Lu*, Jiashuo Liu*, et al."
   venue: "arXiv preprint"
   links:
     - label: Paper
@@ -27,23 +35,23 @@
 - year: 2025
   title: "Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free"
   authors: "Zihan Qiu, Zekun Wang, Bo Zheng, Zeyu Huang, Kaiyue Wen, Songlin Yang, Rui Men, Le Yu, Fei Huang, Suozhi Huang, Dayiheng Liu, Jingren Zhou, and Junyang Lin"
-  venue: "NeurIPS 2025"
+  venue: "NeurIPS 2025 · Best Paper Award"
   links:
     - label: Paper
       url: "https://arxiv.org/abs/2505.06708"
 
 - year: 2025
   title: "LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction"
-  authors: "Suozhi Huang, Peiyang Song, Robert Joseph George, and Anima Anandkumar"
+  authors: "Robert Joseph George, Suozhi Huang, Peiyang Song, and Anima Anandkumar"
   venue: "Transactions on Machine Learning Research"
   links:
     - label: Paper
       url: "https://arxiv.org/abs/2502.17925"
 
-- year: 2024
-  title: "InternLM2.5-StepProver: Advancing Automated Theorem Proving via Expert Iteration on Large-Scale LEAN Problems"
-  authors: "Zijian Wu*, Suozhi Huang*, Zhejian Zhou, Huaiyuan Ying, Jiayu Wang, Dahua Lin, and Kai Chen"
-  venue: "Technical report"
+- year: 2025
+  title: "InternLM2.5-StepProver: Advancing Automated Theorem Proving via Critic-Guided Search"
+  authors: "Zijian Wu*, Suozhi Huang*, Zhejian Zhou, Huaiyuan Ying, Zheng Yuan, Wenwei Zhang, Dahua Lin, and Kai Chen"
+  venue: "ICML 2025"
   links:
     - label: Paper
       url: "https://arxiv.org/abs/2410.15700"
@@ -52,7 +60,7 @@
     - label: Dataset
       url: "https://huggingface.co/datasets/internlm/Lean-Workbook"
 
-- year: 2024
+- year: 2025
   title: "A Knowledge-Data Dual-Driven Framework for Predicting the Molecular Properties of Rechargeable Battery Electrolytes"
   authors: "Yuchen Gao, Yu-Hang Yuan, Suozhi Huang, Nan Yao, Legeng Yu, Yao-Peng Chen, Qiang Zhang, and Xiang Chen"
   venue: "Angewandte Chemie International Edition"
