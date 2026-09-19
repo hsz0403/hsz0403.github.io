@@ -42,8 +42,8 @@
 
 - year: 2025
   title: "LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction"
-  authors: "Robert Joseph George, Suozhi Huang, Peiyang Song, and Anima Anandkumar"
-  venue: "Transactions on Machine Learning Research"
+  authors: "Robert Joseph George*, Suozhi Huang*, Peiyang Song, and Anima Anandkumar"
+  venue: "Transactions on Machine Learning Research · Co-first author"
   links:
     - label: Paper
       url: "https://arxiv.org/abs/2502.17925"
