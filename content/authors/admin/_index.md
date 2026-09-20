@@ -97,6 +97,7 @@ work:
     summary: |
       - Co-developed CryptoBench, a dynamic benchmark for evaluating LLM agents on expert cryptocurrency-analysis tasks.
       - Contributed to AQuA, a pair of recursively self-improving research-agent systems for quantitative investment.
+      - Co-developed FutureX-Finance within FutureX-Pro, a Princeton–ByteDance Seed collaboration benchmarking LLM agents on live forecasting tasks in high-value domains.
   - position: Researcher, Neural Theorem Proving
     company_name: Caltech
     company_url: 'http://tensorlab.cms.caltech.edu/users/anima/'
@@ -204,7 +205,7 @@ awards:
 
 I am a Ph.D. student in Electrical and Computer Engineering at Princeton University, advised by [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang). I work on LLM reasoning, post-training, and agentic systems, with an emphasis on building models and evaluations that remain reliable in complex, dynamic environments. I am particularly interested in reinforcement learning with verifiable rewards, on-policy distillation, scalable search, and agents that improve from empirical feedback.
 
-My recent work includes self-improving quantitative-research agents ([AQuA](https://arxiv.org/abs/2608.12841)), dynamic evaluation of expert-level agents ([CryptoBench](https://arxiv.org/abs/2512.00417)), and formal mathematical reasoning ([InternLM2.5-StepProver](https://arxiv.org/abs/2410.15700) and [LeanProgress](https://arxiv.org/abs/2502.17925v1), which I led as first author of the original submission). I am also a coauthor of the NeurIPS 2025 Best Paper on gated attention for large language models.
+My recent work includes self-improving quantitative-research agents ([AQuA](https://arxiv.org/abs/2608.12841)), live evaluation of forecasting and financial agents ([FutureX-Pro](https://arxiv.org/abs/2601.12259) and [CryptoBench](https://arxiv.org/abs/2512.00417)), and formal mathematical reasoning ([InternLM2.5-StepProver](https://arxiv.org/abs/2410.15700) and [LeanProgress](https://arxiv.org/abs/2502.17925v1), which I led as first author of the original submission). I am also a coauthor of the NeurIPS 2025 Best Paper on gated attention for large language models.
 
 Before Princeton, I received my B.E. in Computer Science from Tsinghua University's Yao Class and was an exchange student at NYU Tandon. I worked with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech, Dr. Zheng Yuan and [Prof. Dahua Lin](https://research.cuhk.edu.hk/en/persons/dahua-lin/) through [InternLM-Math](https://github.com/InternLM/InternLM-Math), and [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) and [Dr. Yiming Li](https://yimingli-page.github.io/) at NYU. I am currently seeking 2027 internship opportunities.
 

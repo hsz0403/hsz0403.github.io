@@ -19,7 +19,7 @@
 - year: 2026
   title: "FutureX-Pro: Extending Future Prediction to High-Value Vertical Domains"
   authors: "Jiashuo Liu, Siyuan Chen, Zaiyuan Wang, Zhiyuan Zeng, Jiacheng Guo, Liang Hu, Lingyue Yin, Suozhi Huang, et al."
-  venue: "arXiv preprint"
+  venue: "Princeton–ByteDance Seed collaboration · arXiv preprint"
   links:
     - label: Paper
       url: "https://arxiv.org/abs/2601.12259"
