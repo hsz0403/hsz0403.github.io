@@ -53,7 +53,7 @@
 - year: 2025
   title: "InternLM2.5-StepProver: Advancing Automated Theorem Proving via Critic-Guided Search"
   authors: "Zijian Wu*, Suozhi Huang*, Zhejian Zhou, Huaiyuan Ying, Zheng Yuan, Wenwei Zhang, Dahua Lin, and Kai Chen"
-  venue: "ICML 2025"
+  venue: "ICML 2025 AI4Math Workshop · Best Paper Honorable Mention (Runner-Up)"
   links:
     - label: Paper
       url: "https://arxiv.org/abs/2410.15700"

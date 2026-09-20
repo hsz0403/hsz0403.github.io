@@ -105,7 +105,7 @@ work:
     date_end: 2025-01-31
     summary: |2-
       - Led LeanProgress as first author of the original submission, developing a proof-progress predictor trained on approximately 80K Lean trajectories.
-      - Integrated progress signals into ReProver search and contributed tooling merged into LeanDojo v2.
+      - Integrated progress signals into neural proof search and contributed tooling merged into LeanDojo v2.
   - position: Research Intern, Formal Mathematical Reasoning
     company_name: Shanghai AI Laboratory (PJLab)
     company_url: 'https://github.com/InternLM/InternLM-Math'
@@ -113,7 +113,7 @@ work:
     date_start: 2024-07-01
     date_end: 2024-10-20
     summary: |
-      - Co-developed critic-guided search and expert iteration for InternLM2.5-StepProver.
+      - Co-developed critic-guided search and expert iteration for InternLM2.5-StepProver, which received a Best Paper Honorable Mention at the ICML 2025 AI4Math Workshop.
       - Built the critic-model training and preference-data pipeline from Lean proof-search trajectories.
   - position: Visiting Researcher, Collaborative Perception
     company_name: NYU AI4CE Lab
@@ -206,6 +206,6 @@ I am a Ph.D. student in Electrical and Computer Engineering at Princeton Univers
 
 My recent work includes self-improving quantitative-research agents ([AQuA](https://arxiv.org/abs/2608.12841)), dynamic evaluation of expert-level agents ([CryptoBench](https://arxiv.org/abs/2512.00417)), and formal mathematical reasoning ([InternLM2.5-StepProver](https://arxiv.org/abs/2410.15700) and [LeanProgress](https://arxiv.org/abs/2502.17925v1), which I led as first author of the original submission). I am also a coauthor of the NeurIPS 2025 Best Paper on gated attention for large language models.
 
-Before Princeton, I received my B.E. in Computer Science from Tsinghua University's Yao Class and was an exchange student at NYU Tandon. I worked with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech, Dr. Zheng Yuan and [Prof. Dahua Lin](https://research.cuhk.edu.hk/en/persons/dahua-lin/) through [InternLM-Math](https://github.com/InternLM/InternLM-Math), and [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) and [Dr. Yiming Li](https://yimingli-page.github.io/) at NYU. I am currently seeking research internships in LLM reasoning, post-training, and agentic systems.
+Before Princeton, I received my B.E. in Computer Science from Tsinghua University's Yao Class and was an exchange student at NYU Tandon. I worked with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech, Dr. Zheng Yuan and [Prof. Dahua Lin](https://research.cuhk.edu.hk/en/persons/dahua-lin/) through [InternLM-Math](https://github.com/InternLM/InternLM-Math), and [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) and [Dr. Yiming Li](https://yimingli-page.github.io/) at NYU. I am currently seeking 2027 internship opportunities.
 
 <!-- <font color=red>I am incoming Ph.D. student in Princeton University for the 2025 Fall.</font> -->
