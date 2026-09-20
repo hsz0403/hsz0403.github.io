@@ -78,6 +78,10 @@ education:
     institution: Yao Class, Tsinghua University
     date_start: 2020-09-01
     date_end: 2025-06-30
+  - area: Exchange Student, Tandon School of Engineering
+    institution: New York University
+    date_start: 2023-05-01
+    date_end: 2023-09-30
       
 
 
@@ -202,6 +206,6 @@ I am a Ph.D. student in Electrical and Computer Engineering at Princeton Univers
 
 My recent work includes self-improving quantitative-research agents ([AQuA](https://arxiv.org/abs/2608.12841)), dynamic evaluation of expert-level agents ([CryptoBench](https://arxiv.org/abs/2512.00417)), and formal mathematical reasoning ([InternLM2.5-StepProver](https://arxiv.org/abs/2410.15700) and [LeanProgress](https://arxiv.org/abs/2502.17925v1), which I led as first author of the original submission). I am also a coauthor of the NeurIPS 2025 Best Paper on gated attention for large language models.
 
-Before Princeton, I received my B.E. in Computer Science from Tsinghua University's Yao Class and worked with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech, Dr. Zheng Yuan and [Prof. Dahua Lin](https://research.cuhk.edu.hk/en/persons/dahua-lin/) through [InternLM-Math](https://github.com/InternLM/InternLM-Math), and [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) and [Dr. Yiming Li](https://yimingli-page.github.io/) at NYU. I am currently seeking research internships in LLM reasoning, post-training, and agentic systems.
+Before Princeton, I received my B.E. in Computer Science from Tsinghua University's Yao Class and was an exchange student at NYU Tandon. I worked with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech, Dr. Zheng Yuan and [Prof. Dahua Lin](https://research.cuhk.edu.hk/en/persons/dahua-lin/) through [InternLM-Math](https://github.com/InternLM/InternLM-Math), and [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) and [Dr. Yiming Li](https://yimingli-page.github.io/) at NYU. I am currently seeking research internships in LLM reasoning, post-training, and agentic systems.
 
 <!-- <font color=red>I am incoming Ph.D. student in Princeton University for the 2025 Fall.</font> -->
