@@ -42,11 +42,13 @@
 
 - year: 2025
   title: "LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction"
-  authors: "Robert Joseph George*, Suozhi Huang*, Peiyang Song, and Anima Anandkumar"
-  venue: "Transactions on Machine Learning Research · Co-first author"
+  authors: "Suozhi Huang, Peiyang Song, Robert Joseph George, and Anima Anandkumar"
+  venue: "First author of the original arXiv v1/v2 submission · Subsequently published in TMLR 2025"
   links:
-    - label: Paper
-      url: "https://arxiv.org/abs/2502.17925"
+    - label: Original version
+      url: "https://arxiv.org/abs/2502.17925v1"
+    - label: TMLR
+      url: "https://openreview.net/forum?id=eTmOwvvRu9"
 
 - year: 2025
   title: "InternLM2.5-StepProver: Advancing Automated Theorem Proving via Critic-Guided Search"

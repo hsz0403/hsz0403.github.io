@@ -100,7 +100,7 @@ work:
     date_start: 2024-08-01
     date_end: 2025-01-31
     summary: |2-
-      - Co-led LeanProgress as a co-first author, developing a proof-progress predictor trained on approximately 80K Lean trajectories.
+      - Led LeanProgress as first author of the original submission, developing a proof-progress predictor trained on approximately 80K Lean trajectories.
       - Integrated progress signals into ReProver search and contributed tooling merged into LeanDojo v2.
   - position: Research Intern, Formal Mathematical Reasoning
     company_name: Shanghai AI Laboratory (PJLab)
@@ -200,7 +200,7 @@ awards:
 
 I am a Ph.D. student in Electrical and Computer Engineering at Princeton University, advised by [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang). I work on LLM reasoning, post-training, and agentic systems, with an emphasis on building models and evaluations that remain reliable in complex, dynamic environments. I am particularly interested in reinforcement learning with verifiable rewards, on-policy distillation, scalable search, and agents that improve from empirical feedback.
 
-My recent work includes self-improving quantitative-research agents ([AQuA](https://arxiv.org/abs/2608.12841)), dynamic evaluation of expert-level agents ([CryptoBench](https://arxiv.org/abs/2512.00417)), and formal mathematical reasoning ([InternLM2.5-StepProver](https://arxiv.org/abs/2410.15700) and the co-first-authored [LeanProgress](https://openreview.net/forum?id=eTmOwvvRu9)). I am also a coauthor of the NeurIPS 2025 Best Paper on gated attention for large language models.
+My recent work includes self-improving quantitative-research agents ([AQuA](https://arxiv.org/abs/2608.12841)), dynamic evaluation of expert-level agents ([CryptoBench](https://arxiv.org/abs/2512.00417)), and formal mathematical reasoning ([InternLM2.5-StepProver](https://arxiv.org/abs/2410.15700) and [LeanProgress](https://arxiv.org/abs/2502.17925v1), which I led as first author of the original submission). I am also a coauthor of the NeurIPS 2025 Best Paper on gated attention for large language models.
 
 Before Princeton, I received my B.E. in Computer Science from Tsinghua University's Yao Class and worked with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech, Dr. Zheng Yuan and [Prof. Dahua Lin](https://research.cuhk.edu.hk/en/persons/dahua-lin/) through [InternLM-Math](https://github.com/InternLM/InternLM-Math), and [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) and [Dr. Yiming Li](https://yimingli-page.github.io/) at NYU. I am currently seeking research internships in LLM reasoning, post-training, and agentic systems.
 
