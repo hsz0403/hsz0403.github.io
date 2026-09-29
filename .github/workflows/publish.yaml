@@ -67,6 +67,12 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+    # This repository currently also has the legacy branch-based Pages build
+    # enabled. Let that build finish first so the Hugo artifact is the final
+    # deployment. This guard can be removed once Pages Source is set to
+    # "GitHub Actions" in the repository settings.
+    - name: Wait for legacy Pages build
+      run: sleep 30
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
