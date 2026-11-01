@@ -11,6 +11,30 @@
       url: "https://github.com/hsz0403/labworld"
 
 - year: 2026
+  title: "GraphCast-Mamba: Learning Non-Markovian Corrections for Weather Forecasting"
+  authors: "Ilya Vilkoviskiy, Liang-Hong Mo, Suozhi Huang, and Dmitry A. Abanin"
+  venue: "arXiv preprint"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2610.28512"
+
+- year: 2026
+  title: "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation"
+  authors: "Siqi Zhu, Suozhi Huang, Kaixuan Zhang, Yuheng Yang, Zhanyang Jin, Yihang Sun, and Jiaxuan You"
+  venue: "arXiv preprint"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2610.02179"
+
+- year: 2026
+  title: "Can Language Models Learn to Forecast Stock Prices"
+  authors: "Jiacheng Guo, Suozhi Huang, Shuzhen Li, Yunlong Gao, Zerui Cheng, Jason Ge, Shushu Liang, Zihao Li, Hao Lu, Ming Yin, Shilong Liu, Jiashuo Liu, Xu Kuang, and Mengdi Wang"
+  venue: "arXiv preprint"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2609.36914"
+
+- year: 2026
   title: "AQuA: Recursively Self-Improving Quantitative Trading Research Agents"
   authors: "Jiacheng Guo, Suozhi Huang, Yunlong Gao, Zihao Li, Jason Ge, Xu Kuang, and Mengdi Wang"
   venue: "arXiv preprint"
