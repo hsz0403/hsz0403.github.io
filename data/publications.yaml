@@ -1,4 +1,32 @@
 - year: 2026
+  title: "LabWorld: Learning Interactive 4D Worlds for Scientific Experimentation"
+  authors: "Suozhi Huang*, Kelsey Fu*, Binxu Li, Luna Lyu, Kaize Wu, Wenbo Lu, David Smerkous, Jiahan Li, Siqi Zhu, Zhizhou Sha, Jiacheng Guo, Zhixuan Liang, Shilong Liu, Le Cong, and Mengdi Wang"
+  venue: "arXiv preprint · * Equal contribution"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2610.36592"
+    - label: Project
+      url: "https://hsz0403.github.io/labworld/"
+    - label: Code
+      url: "https://github.com/hsz0403/labworld"
+
+- year: 2026
+  title: "AQuA: Recursively Self-Improving Quantitative Trading Research Agents"
+  authors: "Jiacheng Guo, Suozhi Huang, Yunlong Gao, Zihao Li, Jason Ge, Xu Kuang, and Mengdi Wang"
+  venue: "arXiv preprint"
+  links:
+    - label: Paper
+      url: "https://arxiv.org/abs/2608.12841"
+
+- year: 2026
+  title: "Agentic Laboratories of the Future: Towards World Models for Scientific Discovery"
+  authors: "Kelsey Fu, Luna Lyu, Shuzhen Li, Suozhi Huang, et al."
+  venue: "Preprints.org · Preprint (not peer-reviewed)"
+  links:
+    - label: Paper
+      url: "https://www.preprints.org/manuscript/202608.0213"
+
+- year: 2026
   title: "Any2Poster: Any-Source Poster Generation Across Modalities and Domains"
   authors: "Amogh Vinaykumar, Aiden Li, Suozhi Huang, and Shilong Liu"
   venue: "arXiv preprint"
